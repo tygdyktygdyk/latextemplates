@@ -1,5 +1,4 @@
 Инструкция
 =========
 Установка:
-'sudo apt install texlive texlive-lang-cyrillic -y'
-
+`sudo apt install texlive texlive-lang-cyrillic -y`
